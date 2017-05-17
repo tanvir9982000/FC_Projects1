@@ -1,0 +1,327 @@
+<zuiprezi><version>7</version><zui-table><settings><autoplay><delay>4000</delay></autoplay><bounds x="-1203087.6808726026" y="-912763.6273567666" width="2406175.3617452052" height="1825527.2547135332"/><aspectratio>off</aspectratio><languages><language>en</language></languages><mode type="normal"/></settings><object id="0_24309637" type="image" x="4.785187786865689e-11" y="-2.2085482093226248e-11" r="0" s="633.2040425645276"><source w="3800" h="2883">tZffv8t1vc.png<url>tZffv8t1vc.png</url></source><resource><id>3090229768</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/4/0/cfef82f26229da5ce0ad7bb138d45581a3695.png</url></resource><sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2Ff%2Fe%2F7%2Fa8e2323d2f43ad599965873bf57abe337d919.png</sourceUrl><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>midnight2</parentTemplate></meta></object><object id="1_24309637" type="button" x="-31947.71684964356" y="166281.09424246367" r="0" s="995.5484834010095" class="invisible"><type>invisible</type><size><w>1109.96259803167</w><h>606.2724056409133</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>midnight2</parentTemplate></meta><layout><frametype value="OVERVIEW"/></layout></object><object id="2_24309637" type="text" x="-32138.46886618426" y="370132.5869568807" r="0" s="2897.871832577599" class="head"><height>28.8</height><width>355.6945142153192</width><p align="center"><text color="16777215"><![CDATA[(An exploration plugin for unconventional shale)]]></text></p></object><object id="3" type="text" x="-53901.68442629748" y="234482.2287403952" r="0" s="5647.132393752308" class="head"><height>28.8</height><width>-67.464</width><p><text color="16744448"><![CDATA[FracScope]]></text></p></object><object id="5" type="text" x="-77610.48696391283" y="-60540.191522083725" r="2.9669353371861177e-16" s="1433.3562173217815" class="head"><height>57.6</height><width>-190.176</width><p align="center"><text color="16758141"><![CDATA[Schlumberger]]></text></p><p align="center"><text color="16758141"><![CDATA[Ocean Academic Competition]]></text></p></object><object id="6" type="button" x="-63512.36259509575" y="77987.3510145559" r="2.966935337186118e-16" s="2.468588173342634" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="8" type="text" x="-63500.21930278854" y="78072.3540607063" r="2.966935337186118e-16" s="4.622617461786453" class="head"><height>28.8</height><width>-140.78400000000002</width><p><text color="16744448"><![CDATA[University of Houston]]></text></p></object><object id="9" type="image" x="-62756.8314224598" y="77510.36247295355" r="2.9669353371861177e-16" s="0.5029382660277625"><source w="748" h="915">8DfEth5gtTuxx1g.JPG<url>8DfEth5gtTuxx1g.JPG</url></source><resource><id>3090347710</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/a/8/d48ea7daa1431d7d377ff3870ad995840ab19.JPG</url></resource><sourceUrl>DSC_0041.JPG</sourceUrl></object><object id="10" type="text" x="-62795.26348115819" y="77813.86798323516" r="2.966935337186115e-16" s="2.555590069699766" class="head"><height>28.8</height><width>181.7115365513583</width><p align="center"><text><![CDATA[Mohammad Tanvir Rahman]]></text></p></object><object id="11" type="image" x="-64255.861300756005" y="78346.52913323238" r="2.9669353371861177e-16" s="0.26574072482674904"><source w="1453" h="1505">FquaURRE0gglGwq.JPG<url>FquaURRE0gglGwq.JPG</url></source><resource><id>3090378988</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/5/e/622db51547b43c01a133f23c955f543d5b17b.JPG</url></resource><sourceUrl>sharif.JPG</sourceUrl></object><object id="12" type="text" x="-64252.62869768795" y="78646.08368420854" r="2.966935337186115e-16" s="2.8702817503687967" class="head"><height>28.8</height><width>117.37756902341457</width><p><text><![CDATA[Sharif M Morshed]]></text></p></object><object id="13" type="image" x="-62722.52991212621" y="78342.39858486758" r="2.966935337186118e-16" s="0.25672289171329976"><source w="1196" h="1800">badhan.jpg<url>badhan.jpg</url><mask x="0" y="0" w="1196" h="1582"/></source><resource><id>3090388228</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/a/f/5d809944ee11bf0bf9d87117ca3c98f59fad2.jpg</url></resource><sourceUrl>badhan.jpg</sourceUrl></object><object id="14" type="text" x="-62757.01101151914" y="78634.05121723287" r="2.9669353371861177e-16" s="3.4007767723279256" class="head"><height>28.8</height><width>97.53790472840018</width><p align="right"><text><![CDATA[Ismot Jahan]]></text></p></object><object id="15" type="button" x="-366721.4435003029" y="18519.056400692305" r="0" s="38.17164447860143" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="16" type="text" x="-366766.0817164716" y="19715.23731632003" r="0" s="107.37312086616215" class="head"><height>57.6</height><width>275.59638193924354</width><p><text color="16744448"><![CDATA[Goal: Solving the challenges to Identify sweet spot]]></text></p></object><object id="17" type="text" x="-381176.4180617484" y="29041.663434189188" r="0" s="28.2993960327681" class="body"><height>27.1875</height><width>-14.40234375</width><p><text><![CDATA[3]]></text></p></object><object id="18" type="button" x="-385837.0957663843" y="91366.13014288346" r="0" s="26.625678934559375" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="19" type="text" x="-385894.26538637583" y="85008.39451486041" r="0" s="82.22790405108475" class="head"><height>28.8</height><width>247.0271112429495</width><p><text color="16744448"><![CDATA[Key challenges to identify sweet spot]]></text></p></object><object id="22" type="text" x="-385912.79976829124" y="90009.45" r="0" s="60.936854300459906" class="head"><height>57.6</height><width>332.7514290578045</width><p><text color="16777215"><![CDATA[Is there commercial amount of hydrocarbon?]]></text></p><p listType="bullet" indent="1"><text color="16775176"><![CDATA[   TOC, Porosity, pore types]]></text></p></object><object id="23" type="text" x="-350357.8584763577" y="111830.3" r="0" s="50.470631904681724" class="head"><height>57.6</height><width>315.7193259651816</width><p><text color="16777215"><![CDATA[Is the reservoir brittle?]]></text></p><p listType="bullet" indent="1"><text color="16775176"><![CDATA[  Shale volume, Brittleness index, YM, PR]]></text></p></object><object id="25" type="button" x="-496357.15178576903" y="130834.76951131222" r="0" s="36.99888815552369" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="26" type="text" x="-497018.90551148617" y="130265.84287369286" r="0" s="73.84465393150502" class="head"><height>144</height><width>367.97505560253467</width><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Have to write the equation]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Equations can be long, complex and pipelined]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Time consuming & prone to error]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Requires extensive technical expertise]]></text></p><p><text><![CDATA[]]></text></p></object><object id="30" type="text" x="-496100.9034035889" y="122015.69767359212" r="0" s="118.52149304891093" class="head"><height>28.8</height><width>238.2725138881771</width><p><text color="16744448"><![CDATA[Relevant Petrel tool : Log calculator]]></text></p></object><object id="32" type="button" x="-436958.1770205916" y="151085.18237143496" r="0" s="0.7069231200249261" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="35" type="image" x="-436784.8388064159" y="150980.4660540302" r="0" s="0.2790069598962181"><source w="697" h="659">27vvFt8rnzJnSwA.png<url>27vvFt8rnzJnSwA.png</url></source><resource><id>3090981706</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/5/5/536832db3056e6b70175589db7a2fc6b63588.png</url></resource><sourceUrl>PRYM2.png</sourceUrl></object><object id="33" type="text" x="-436992.1546515825" y="151160.19883735446" r="0" s="1.1738360196740132" class="head"><height>172.8</height><width>392.51545594066295</width><p listType="bullet" indent="1"><text color="16777215"><![CDATA[No equation writing]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Handle piggybacking]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Petrel like interface]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Support operations on multiple wells]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Output data in well log format]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Output log can be used for any further calculations]]></text></p></object><object id="34" type="text" x="-437124.7774597827" y="150941.89860805692" r="0" s="2.9424284408414247" class="head"><height>28.8</height><width>-67.464</width><p><text color="16744448"><![CDATA[FracScope]]></text></p></object><object id="36" type="button" x="-455405.68842243374" y="243772.07864430893" r="0" s="33.848197607508354" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="37" type="text" x="-457885.4863645145" y="245212.55459902837" r="0" s="60.12067496422516" class="head"><height>86.4</height><width>352.7662657491899</width><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Geology and Petrophysics]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Geophysical and Engineering (Isotropic)]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Geophysical and Engineering (Anisotropic)]]></text></p></object><object id="38" type="text" x="-463595.3943349434" y="236133.96276909616" r="0" s="145.21424960226395" class="head"><height>28.8</height><width>-67.464</width><p><text color="16744448"><![CDATA[FracScope]]></text></p></object><object id="40" type="text" x="-462576.7010383256" y="240653.27306132764" r="0" s="90.3268715960735" class="head"><height>28.8</height><width>130.93590785633504</width><p><text><![CDATA[18 Functionalities]]></text></p></object><object id="41" type="button" x="-454776.5626339065" y="243315.98720597237" r="0" s="0.4495110199898938" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="42" type="text" x="-454789.3091442822" y="243205.65675550647" r="0" s="1.3225847938572732" class="head"><height>28.8</height><width>-243.50400000000002</width><p><text color="16744448"><![CDATA[FracScope: Geology and Petrophysics]]></text></p></object><object id="43" type="text" x="-454866.3765139729" y="243320.25600755305" r="0" s="0.9270013659869532" class="head"><height>201.60000000000002</height><width>176.44210731979786</width><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Shale Volume ]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Density Porosity]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Kerogen Porosity ]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[TOC (two methods)]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Clay Porosity]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Fracture Porosity]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Sand Porosity]]></text></p></object><object id="44" type="button" x="-449372.68662007106" y="244981.4233811024" r="0" s="0.5846671884867325" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="45" type="text" x="-449371.18589600385" y="244879.07399971836" r="0" s="1.33078373433099" class="head"><height>28.8</height><width>-338.856</width><p><text color="16744448"><![CDATA[FracScope: Geophysical and Engineering (Isotropic)]]></text></p></object><object id="46" type="text" x="-449457.939827244" y="244976.85686178756" r="0" s="1.04888279028572" class="head"><height>115.2</height><width>-262.032</width><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Young’s Modulus & Poisson’s Ratio]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Brittleness Index]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Vertical stress ]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Min horizontal stress]]></text></p></object><object id="47" type="button" x="-449562.37814216694" y="244881.62523063264" r="0" s="0.08683032543063292" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="48" type="button" x="-448270.1354110077" y="246960.19960542436" r="0" s="0.6534492932016036" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="49" type="text" x="-448269.0151834946" y="246813.02971590435" r="0" s="1.410333374657086" class="head"><height>28.8</height><width>-355.75199999999995</width><p><text color="16744448"><![CDATA[FracScope: Geophysical and Engineering (Anisotropic)]]></text></p></object><object id="50" type="text" x="-448318.4544517234" y="246937.88281816815" r="0" s="1.1333202824790236" class="head"><height>144</height><width>355.47620302914714</width><p><text color="16777215"><![CDATA[(ANNIE approximation and Modified ANNIE)]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Vertical and Horizontal Poisson’s Ratio]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Vertical and Horizontal Young’s Modulus]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Epsilon and Gamma]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Vertical stress and Minimum horizontal stress]]></text></p></object><object id="51" type="button" x="-407976.2562728776" y="251055.13471176053" r="0" s="26.056557504971263" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="52" type="text" x="-408561.3903038415" y="245034.85806772215" r="0" s="91.68813327519447" class="head"><height>28.8</height><width>-206.88</width><p><text color="16744448"><![CDATA[FracScope: Making a Difference]]></text></p></object><object id="53" type="text" x="-408059.698519075" y="251788.59374710792" r="0" s="41.75504805355475" class="head"><height>259.20000000000005</height><width>478.1812199831786</width><p><text color="3247103"><![CDATA[ANNIE and modified ANNIE model:]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Estimates vertical and horizontal YM, PR & Min Horizontal Stress]]></text></p><p><text color="16777215"><![CDATA[]]></text></p><p><text color="3247103"><![CDATA[TOC: ]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[2 methods for result comparison]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Provides accurate result even with fewer well logs.]]></text></p><p><text color="3247103"><![CDATA[]]></text></p><p><text color="3247103"><![CDATA[Shale Volume: ]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Based on Neutron porosity & Density porosity]]></text></p></object><object id="54" type="button" x="-339819.4096266576" y="286315.8694122048" r="0" s="29.788137495817384" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="55" type="text" x="-340721.60958524403" y="287669.2012117432" r="0" s="70.52240847636722" class="head"><height>86.4</height><width>181.64016591351785</width><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Useful & Complete]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Equation free]]></text></p><p listType="bullet" indent="1"><text color="16777215"><![CDATA[Less click, less RSI]]></text></p></object><object id="56" type="text" x="-340336.3541864533" y="280999.3731687939" r="0" s="144.0111588435919" class="head"><height>28.8</height><width>-67.464</width><p><text color="16744448"><![CDATA[FracScope]]></text></p></object><object id="57" type="button" x="-444102.9074378963" y="243059.4547938972" r="0" s="0.8254843612680062" class="invisible"><type>invisible</type><size><w>1139.5348837209303</w><h>600</h></size></object><object id="58" type="button" x="-455404.74820919184" y="243771.6750218749" r="0" s="36.02595147837159" class="invisible"><type>invisible</type><size><w>1139.5348837209303</w><h>600</h></size></object><object id="59" type="button" x="-458102.73825878743" y="242413.65726103535" r="0" s="35.46326426666447" class="invisible"><type>invisible</type><size><w>1139.5348837209303</w><h>600</h></size></object><object id="60" type="button" x="-458102.3543125727" y="242411.73752996264" r="0" s="37.74492965770563" class="invisible"><type>invisible</type><size><w>1139.5348837209303</w><h>600</h></size></object><object id="61" type="button" x="-128092.52004213649" y="369652.6648682422" r="0" s="0.6077311989115939" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="63" type="button" x="-52702.25659180412" y="225884.00382021876" r="0" s="379.97857607014" class="invisible"><type>invisible</type><size><w>1139.5348837209303</w><h>600</h></size></object><object id="64" type="button" x="-339045.49087660614" y="281180.7295621476" r="0" s="0.3237396386203445" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="65" type="text" x="-339030.7999523394" y="281184.2116950985" r="0" s="2.257519209886303" class="head"><height>28.8</height><width>-66.12</width><p><text color="16744448"><![CDATA[Live Demo]]></text></p></object><object id="66" type="text" x="-66723.89543179545" y="76782.03725842759" r="0" s="1433.3562173217815" class="head"><height>28.8</height><width>-89.304</width><p><text color="16775176"><![CDATA[Bengal Tigers]]></text></p></object><object id="67" type="image" x="-64279.781871055326" y="77535.28936002875" r="90.4132128093204" s="0.3548844825557397"><source w="1800" h="1012">sayket.jpg<url>sayket.jpg</url><mask x="406" y="0" w="1394" h="1012"/></source><resource><id>3090981739</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/8/a/d687b996b9c23718ce7fc594e929f7490999f.jpg</url></resource><sourceUrl>sayket.jpg</sourceUrl></object><object id="68" type="text" x="-64219.80136662885" y="77852.11889568027" r="2.9669353371861187e-16" s="2.555590069699766" class="head"><height>28.8</height><width>-189.76800000000003</width><p><text><![CDATA[Md. Abdullah Shahneous Bari]]></text></p></object><object id="69" type="button" x="-71637.14509499968" y="84639.85131685047" r="2.966935337186118e-16" s="186.62259808638888" class="invisible"><type>invisible</type><size><w>1139.5348837209303</w><h>600</h></size></object><object id="0" type="button" x="-436957.1384952746" y="144167.87679287684" r="0" s="28.126783049467697" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="1" type="text" x="-436958.5924307182" y="140812.71305143114" r="0" s="122.46962369659512" class="head"><height>28.8</height><width>104.21737823607172</width><p align="center"><text color="16777215"><![CDATA[Our Solution:]]></text></p></object><object id="2" type="text" x="-383126.30000000005" y="139618.6" r="0" s="12.724114336269759" class="head"><height>28.8</height><width>-8.016</width><p><text><![CDATA[4]]></text></p></object><object id="4" type="text" x="-508027.59133538115" y="141013.12271954844" r="0" s="41.13936665338379" class="head"><height>28.8</height><width>105.9446749571795</width><p><text><![CDATA[5]]></text></p></object><object id="7" type="text" x="-447594.7359979341" y="151700.75954981984" r="0" s="25.731072793041125" class="head"><height>28.8</height><width>-8.208</width><p><text><![CDATA[6]]></text></p></object><object id="20" type="text" x="-437227.16036273056" y="151274.66679796527" r="0" s="0.8348042024249378" class="head"><height>28.8</height><width>-6.912</width><p><text><![CDATA[7]]></text></p></object><object id="21" type="text" x="-467015.17674353777" y="253034.61642237537" r="0" s="31.86413354209156" class="head"><height>28.8</height><width>81.2447212222112</width><p><text><![CDATA[8]]></text></p></object><object id="27" type="text" x="-454945.8164739731" y="243436.26491392145" r="0" s="0.424649005558821" class="head"><height>28.8</height><width>-8.208</width><p><text><![CDATA[9]]></text></p></object><object id="28" type="text" x="-449593.8846563148" y="245137.9285493816" r="0" s="0.6512736898781877" class="head"><height>28.8</height><width>-14.064</width><p><text><![CDATA[10]]></text></p></object><object id="29" type="text" x="-448518.78007972735" y="247136.8449138204" r="0" s="0.6397297538605914" class="head"><height>28.8</height><width>-11.136000000000001</width><p><text><![CDATA[11]]></text></p></object><object id="31" type="text" x="-417851.1805344224" y="258073.02199752128" r="0" s="25.926599681811812" class="head"><height>28.8</height><width>-14.136</width><p><text><![CDATA[12]]></text></p></object><object id="39" type="text" x="-350989.5985200488" y="294223.8928512172" r="0" s="31.6505778445213" class="head"><height>28.8</height><width>-13.608</width><p><text><![CDATA[13]]></text></p></object><object id="62" type="button" x="-80302.10078699852" y="223835.64631628705" r="0" s="303.3194685073945" class="invisible"><type>invisible</type><size><w>1139.5348837209303</w><h>600</h></size></object><object id="70" type="button" x="-340267.10820692545" y="280348.76693074504" r="0" s="13.184655957647609" class="invisible"><type>invisible</type><size><w>1139.5348837209303</w><h>600</h></size></object><object id="71" type="button" x="-341341.0472371755" y="279863.36019760615" r="0" s="12.360614960294637" class="invisible"><type>invisible</type><size><w>1139.5348837209303</w><h>600</h></size></object><object id="72" type="text" x="-436965.0312876833" y="146737.39613205567" r="0" s="229.45734765431231" class="head"><height>28.8</height><width>-67.464</width><p><text color="16744448"><![CDATA[FracScope]]></text></p></object><object id="73" type="text" x="-437069.89418646623" y="151029.9709303776" r="0" s="1.4531530376015795" class="head"><height>28.8</height><width>-212.18400000000003</width><p><text><![CDATA[ Simple, easy, useful & complete]]></text></p></object><object id="0_125282233" type="button" x="-350142.2" y="110017.4" r="0" s="22.350266992806024" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="1_125282233" type="button" x="-378709.9" y="136377.4" r="0" s="12.126409315174776" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="2_125282233" type="text" x="-350247.3" y="104852.6" r="0" s="69.41865857765279" class="head"><height>28.8</height><width>-246.096</width><p><text color="16744448"><![CDATA[Key challenges to identify sweet spot]]></text></p></object><object id="3_125282233" type="text" x="-378687.02092196216" y="133507.22513362" r="0" s="38.23653340867415" class="head"><height>28.8</height><width>-246.096</width><p><text color="16744448"><![CDATA[Key challenges to identify sweet spot]]></text></p></object><object id="4_125282233" type="text" x="-380971.20677046466" y="135324.41506389604" r="0" s="11.65828419932721" class="head"><height>144</height><width>378.4146434093515</width><p><text color="16777215"><![CDATA[Is there commercial amount of hydrocarbon?]]></text></p><p listType="bullet" indent="1"><text color="16775176"><![CDATA[   TOC, Porosity, pore types]]></text></p><p><text color="16775176"><![CDATA[]]></text></p><p><text color="16777215"><![CDATA[Is the reservoir brittle?]]></text></p><p listType="bullet" indent="1"><text color="16775176"><![CDATA[  Shale volume, Brittleness index, YM, PR]]></text></p></object><object id="5_125282233" type="text" x="-353633.34010634443" y="108190.66826075797" r="0" s="24.899939609651852" class="head"><height>57.6</height><width>376.80939805062206</width><p><text color="16777215"><![CDATA[Is there commercial amount of hydrocarbon?]]></text></p><p listType="bullet" indent="1"><text color="16775176"><![CDATA[   TOC, Porosity, pore types]]></text></p></object><object id="6_125282233" type="text" x="-378971.9555383683" y="137540.073147558" r="0" s="29.518906248268927" class="head"><height>57.6</height><width>284.96319643811904</width><p><text color="16777215"><![CDATA[Which direction to drill ?]]></text></p><p listType="bullet" indent="1"><text color="16775176"><![CDATA[  Anisotropy, Min horizontal stress]]></text></p></object></zui-table><background><layer depth="208.62160159884783" fadescale="0.08839705955231712"><object id="background1597124533" type="image" x="-3161.9357097352004" y="23871.839907727317" r="0" s="572.3275480177665"><source w="3000" h="2894">31uewsZcql.jpg<url>31uewsZcql.jpg</url></source><resource><id>3090981811</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/c/1/152801ff17b7de4489e3a77abd065ba518e26.jpg</url></resource><sourceUrl>starsonlysmall.jpg</sourceUrl></object></layer></background><path><s><eagle o="1_24309637"/></s><s><eagle o="69"/></s><s><eagle o="6"/></s><s><eagle o="15"/></s><s><eagle o="18"/></s><s><eagle o="0_125282233"/></s><s><eagle o="1_125282233"/></s><s><eagle o="25"/></s><s><eagle o="0"/></s><s><eagle o="32"/></s><s><eagle o="36"/></s><s><eagle o="41"/></s><s><eagle o="44"/></s><s><eagle o="48"/></s><s><eagle o="51"/></s><s><eagle o="54"/></s><s><eagle o="71"/></s><s><eagle o="64"/></s></path><style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('LiberationMonoPR-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LeagueGothic-Regular.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LeagueGothic;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LeagueGothic-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LeagueGothic;
+}
+
+.line1
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	color: #3682a2;
+	gradEndColor: #3682a2;
+	gradStartColor: #3682a2;
+}
+
+.line2
+{
+	borderAlpha: 0;
+	borderColor: #6c7279;
+	color: #6c7279;
+	gradEndColor: #6c7279;
+	gradStartColor: #6c7279;
+}
+
+.line3
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+.line4
+{
+	borderAlpha: 0;
+	borderColor: #6a84a7;
+	color: #edc213;
+	gradEndColor: #6a84a7;
+	gradStartColor: #6a84a7;
+}
+
+.line5
+{
+	borderAlpha: 0;
+	borderColor: #7a4780;
+	color: #7a4780;
+	gradEndColor: #d84b4e;
+	gradStartColor: #d84b4e;
+}
+
+.poly1
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #222;
+	gradStartColor: #222;
+}
+
+.poly2
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	borderThickness: 0;
+	color: #000;
+	gradEndColor: #6c7279;
+	gradStartColor: #6c7279;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderColor: #edc213;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #9fc4f6;
+	gradStartColor: #9fc4f6;
+}
+
+.poly4
+{
+	borderAlpha: 0;
+	borderColor: #edc213;
+	borderThickness: 0;
+	color: #000;
+	gradEndColor: #6a84a7;
+	gradStartColor: #6a84a7;
+}
+
+.poly5
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #d84b4e;
+	gradStartColor: #d84b4e;
+}
+
+Background
+{
+	gradEnd: #000;
+	gradStart: #000;
+}
+
+Grid
+{
+	color: #464646;
+}
+
+ZArrow
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndAlpha: 0.6;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.6;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 4;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 4;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 6;
+	gradEndAlpha: 0.2;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.2;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 10;
+	thickness: 4;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #fff;
+	fontFamily: body;
+	lockTintAlpha: 0.15;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #6a84a7;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #50c8fa;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #333;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+	lockTintAlpha: 0.15;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #6c7279;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZLoadedImage
+{
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.75;
+	color: #d84b4e;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style><hash>6d27e29e</hash><config>7AfodKsfEzFUtAAbC6UBDIO+wUGi0GpUOA==</config></zuiprezi>
