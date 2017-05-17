@@ -1,0 +1,25 @@
+<InstalledPlugins>
+  <Plugin>
+  <Name>Plugin</Name>
+  <Description>FracScope is an exploration plugin based on latest technology to provide critical insight to best zone for fracturing. It provides quantitative and qualitative tools from wireline logging data. The user will be able to calculate relevant geological and petrophysical properties such as shale volume, Uranium to Thorium ratio and pore fractions (organic pore, fracture pore, TOC, clay pore and inter-particle pore). The plugin also provides elastic and engineering properties for isotropic and anisotropic cases to choose the best fracture-able zones.</Description>
+  <Contact>bengaltigers@gmail.com</Contact>
+  <PluginTypeName>FracScope.Plugin, FracScope, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</PluginTypeName>
+  <PluginUri>http://www.pluginuri.info/</PluginUri>
+  <PluginId>://FracScope.Plugin/1.0.0.0</PluginId>
+  <Trust PublicKeyToken="">Default</Trust>
+  <ReleaseDate>2015-02-26</ReleaseDate>
+  <Author>Bengal Tigers</Author>
+  <AppVersion>2014.1</AppVersion>
+  <Modules>
+    <Module TypeName="FracScope.Module, FracScope, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      
+    </Module>
+  </Modules>
+  <Assemblies>
+    <Assembly Name="FracScope, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+  </Assemblies>
+  
+  <StartMode>Startup</StartMode>
+  <StartupAction>None</StartupAction>
+</Plugin>
+</InstalledPlugins>
