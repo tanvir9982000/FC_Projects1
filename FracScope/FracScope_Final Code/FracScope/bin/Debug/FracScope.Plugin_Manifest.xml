@@ -1,0 +1,7 @@
+<Deployment>
+  <Files>
+    <File Name="FracScope.dll" />
+    <File Name="FracScope.pdb" />
+    <File Name="FracScope.Plugin_Manifest.xml" />
+  </Files>
+</Deployment>
